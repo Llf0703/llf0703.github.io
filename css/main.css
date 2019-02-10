@@ -1,4 +1,20 @@
-.container-fixed{
+.container-fixed {
     padding-top: 80px;
     position: relative;
+}
+
+.card-fixed {
+    margin-bottom: 2em;
+}
+
+.footer {
+    margin-top:2em;
+    padding: 2em;
+    text-align: center;
+    font-size: 1em;
+    line-height: 0.5;
+}
+
+.footer a {
+    color :white;
 }
